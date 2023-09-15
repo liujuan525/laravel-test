@@ -22375,3 +22375,7 @@ body {
   border: 0;
   border-top: 1px solid #979da0;
 }
+
+.simditor-body img {
+  max-width: 100%;
+}
